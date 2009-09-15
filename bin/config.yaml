@@ -1,0 +1,8 @@
+--- !ruby/object:Configuration 
+agents: 
+- spark2007@bulls.cs.ucsb.edu
+- spark2007@lakers.cs.ucsb.edu
+- spark2007@wizards.cs.ucsb.edu
+appscale: root@128.111.55.227
+console: spark2007@bulls.cs.ucsb.edu
+repository: spark2007@bulls.cs.ucsb.edu
